@@ -1,0 +1,13 @@
+# Berbagai Issue yang Ditemui Ketika Mengintegrasikan GitHub dan Visual Code
+
+### 1. Mengganti Command Prompt 
+   **Issue:** Kode pertama yaitu `mkdir .ssh` tidak bisa mengubah *command prompt* dari `~$` menjadi *visual cue* `~/.ssh$` 
+   **Penyelesaian:** Memasukkan kode lain, yaitu `cd .ssh` 
+   ![issue ssh](/session%201/img/ssh%20issue.jpeg)
+
+### 2. Too Many Argument 
+   **Issue:** Saat memasukkan kode `ssh-keygen -t ed25519 -c "emailexample.com"` terminal menunjukkan `Too many argument`.
+   ![toomanyargument](/session%201/img/intgrasissh.jpeg)
+   **Penyelesaian:** Memasukkan kode `ssh-keygen -t rsa -b 4096 -c "email.example.com"`
+   ![ssh key bener](/session%201/img/integrasicat.jpeg)
+   
