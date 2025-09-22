@@ -12,3 +12,4 @@ Berikut adalah cara pembuatan akun GitHub
 6. Lakukan captcha 
 7. Masukkan code yang dikirim oleh GitHub melalui Email
 8. Akun GitHub sudah bisa digunakan
+#
