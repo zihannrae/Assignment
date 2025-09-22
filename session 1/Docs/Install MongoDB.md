@@ -19,4 +19,5 @@ Berikut adalah cara bagaimana mengunduh MOngoDB di LInux Mint:
 8. Sambungkan ke MongoDB shell
 `mongosh`
 9. MongoDB selesai terunduh 
+
 ![Tampilan selesai](/session%201/img/Mongoselesai.jpeg)
