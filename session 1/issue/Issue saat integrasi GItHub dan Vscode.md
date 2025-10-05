@@ -12,3 +12,4 @@
 
    **Penyelesaian:** Memasukkan kode `ssh-keygen -t rsa -b 4096 -c "email.example.com"`
    ![ssh key bener](/session%201/img/integrasicat.jpeg)
+   
