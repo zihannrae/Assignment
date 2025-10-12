@@ -1,0 +1,52 @@
+# REVIEW MODUL PEMBELAJARAN 
+
+## Pertemuan Pertama
+ ### Modul Tiga 
+        Modul ini berisi panduan langkah-langkah installasi Visual Studio Code.
+ ### Modul Empat
+
+## Pertemuan Kedua 
+ ### Modul Satu 
+ ### Modul Dua
+        Modul ini berisi penjelasan dasar mengenai data dalam sistem informasi, termasuk perbedaan data dan informasi, jenis-jenis data, representasi data dalam kehidupan sehari-hari, kualitas data, dan mengapa pengelolaan data penting.
+ ### Modul Tiga 
+        Modul ini berisi penjelasan mengenai arti penting dari database dan mengapa database dibutuhkan. Database dibutuhkan karenaa adanya keterbatasan dalam penyimpanan manual, pentingnya akses cepat ke data, database memiliki mekanisme untuk menjaga konsistensi dan integritas data, penggunaan database dapat meningkatkan keamanan data, serta skalabilitas dan adaptabilitas. 
+
+        Dalam dunia perpustakaan database membawa perubahan pada manajemen perpustakaan, terutama pada sistem sirkulasi perpustakaan. 
+ ### Modul Empat
+        Modul ini membahas mengenai Database Managaement System (DBMS), sebuah perangkat lunak yang dirancang untuk mengelola data secara sistematis. Ada beberapa perbedaan antara DBMS dan file biasa yang digunakan untuk menyimpan data. Misalnya, dalam konteks perpustakaan, file biasa menyimpan data secara terpisah sementara DBMS menghubungkan dua data atau lebih. 
+### Modul Kelima 
+        Modul ini membahas mengenai MariaDB, perangkat lunak yang menjadi turunan dari MySQL. MAriaDB memiliki fitur beragam, seperti dukungan penuh terhadap SQL standar, penyimpanan fleksibel, kemampuan replikasi, dan sistem keamanan yang canggih. Dalam dunia perpustakaan, MAriaDB membantu perpustakaan untuk mengelola data anggota, koleksi, dan peminjaman. 
+### Modul Keenam 
+        Modul ini membahas mengenai potensi database. Dalam dunia perpustakaan database membantu dalam pengelolaan koleksi buku secara otomatis pada perpustakaan digital dan dapat meningkatkan kualitas layanan dan pengalaman pengguna. 
+
+## Pertemuan Ketiga
+ ### Modul Satu 
+        Modul ini membahas mengenai konsep database dan tabel. Database aadalah kumpulan data yang terorganisassi dan dikeolola secara sistematis, sementara tabel adalah struktur dasar dalam database relasional. 
+
+        Sementara itu, dijelasskan pula mengenai relasi antar tabel, peran primary key sebagai pengenal unik untuk setiap baris dalam tabel, serta kolaborasi database, tabel, baris, dan kolom. 
+ ### Modul Dua
+        Modul ini membahas mengenai tipe data. Tipe data adalah aturan yang menentukan bentuk dan sifat data yang disimpan dalam kolom tabel. Ada beberapa tipe data, yaitu:
+        1. Tipe data angka (numeric), seperti INT,BIGINT, dan DECIMAL INT.
+        2. Tipe data teks (string), seperti CHAR dan VARCHAR. 
+        3. Tipe data tanggal dan waktu, seperti DATE, TIME, DAM TIMESTAMP.
+        
+ ### Modul Tiga 
+        Modul ini menjelaskan langkah-langkah pembuatan database melalui MAriaDB dengan mudah dan singkat. 
+ ### Modul Empat
+        Modul ini menjelaskan langkah-langkah pembuatan tabel sederhana dan kesalahan-kesalahan yang mungkin dapat terjadi ketika membuat sebuah tabel. 
+ ### Modul Lima
+        Modul ini menjelaskan langkah-langkah pembuatan tabel buku secara sederhana dan dilengkapi dengan kesalahan yang umum terjadi. 
+
+## Pertemuan Keempat 
+ ### Modul Satu 
+        Modul ini menjelasskan langkah-langkah menambahkan data ke dalam tabel yang telah dibuat sebelumnya. 
+ ### Modul Dua
+        Modul ini menjelaskan langkah-langkah penggunaan perintah `SELECT`. Seperti:
+        1. Perintah dasar `SELECT * ` yang berfungsi untu menampilkan data dalam sql. 
+ ### Modul Tiga 
+        Modul in menjelasskan langkah-langkah pengubahan data di tabel yang telah dibuat menggunakan perintah 'UPDATE'. 
+ ### Modul Empat
+        Modul in menjelasskan langkah-langkah menghapus data di tabel yang telah dibuat menggunakan perintah 'DELETE'.
+ ### Modul Lima 
+        Modul ini mengajak atau menjadi panduan dalam praktik penambahan data buku ke dalam tabel yang telah dibuat sebelumnya. 
